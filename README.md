@@ -1,4 +1,4 @@
-# Hi, I'm [Tomas Gomez.] 👋
+# Hi, I'm Tomas Gomez. 👋
 
 Welcome to my GitHub profile! I'm a programming student, almost graduated as a full-stack programmer. I'm passionate about web development and constantly learning new technologies to enhance my skills.
 
