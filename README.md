@@ -30,4 +30,3 @@ Thanks for visiting my profile! 😊
 
 ---
 
-*This README is inspired by my journey as a student. If you have suggestions to improve it, let me know!*
