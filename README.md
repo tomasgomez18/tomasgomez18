@@ -22,9 +22,8 @@ Here are some of my favorite projects (update this section with your actual repo
 - 
 
 ## Contact
-- 📧 Email: 
-- 💼 LinkedIn:
-- 🐦 Twitter:
+- 📧 Email: tomasgomezzi36@gmail.com
+- 💼 LinkedIn: Tomas Gomez
 
 Thanks for visiting my profile! 😊
 
