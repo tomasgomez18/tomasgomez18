@@ -32,7 +32,8 @@ I am a **Full-Stack Developer** focused on building scalable web applications. I
 A full-stack music streaming application. This project showcases my ability to manage complex state in the frontend and a structured REST API in the backend.
 * **Key Features:** Dynamic search, product management, and professional Git workflow (feature branching).
 * **Tech Stack:** React, Node.js, Express, Mongoose, React-Bootstrap.
-* [🔗 View Repository](https://github.com/tomasgomez18/wavv-music-frontend) 
+* [🔗 View Repository frontend](https://github.com/Pablobasso25/wavv-music-frontend) 
+* [🔗 View Repository backend](https://github.com/Pablobasso25/wavv-music-backend) 
 
 ### 🎬 Streaming Experience
 A specialized frontend project focused on UI/UX and dynamic content rendering.
