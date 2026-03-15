@@ -52,6 +52,7 @@ A specialized frontend project focused on UI/UX and dynamic content rendering.
 ## 📩 Contact
 * 💼 **LinkedIn:** [linkedin.com/in/tomas-gomez](TU_LINK_A_LINKEDIN)
 * 📧 **Email:** [tomasgomezzi36@gmail.com](mailto:tomasgomezzi36@gmail.com)
+* 🌐 **Portfolio:** [https://tomasgomezportfolio.netlify.app/#home]
 
 ---
 *"Code is like humor. When you have to explain it, it’s bad."*
