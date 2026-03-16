@@ -50,7 +50,7 @@ A specialized frontend project focused on UI/UX and dynamic content rendering.
 ---
 
 ## 📩 Contact
-* 💼 **LinkedIn:** [linkedin.com/in/tomas-gomez](TU_LINK_A_LINKEDIN)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/tomas-gomez-15a613383/(TU_LINK_A_LINKEDIN)
 * 📧 **Email:** [tomasgomezzi36@gmail.com](mailto:tomasgomezzi36@gmail.com)
 * 🌐 **Portfolio:** https://tomasgomezportfolio.netlify.app
 
