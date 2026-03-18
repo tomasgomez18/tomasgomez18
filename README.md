@@ -35,10 +35,10 @@ A full-stack music streaming application. This project showcases my ability to m
 * [🔗 View Repository frontend](https://github.com/Pablobasso25/wavv-music-frontend) 
 * [🔗 View Repository backend](https://github.com/Pablobasso25/wavv-music-backend) 
 
-### 🎬 Streaming Experience
+### 🎬 Clap 
 A specialized frontend project focused on UI/UX and dynamic content rendering.
 * **Key Features:** Responsive design, interactive media elements, and optimized performance.
-* **Tech Stack:** JavaScript (ES6+), HTML5, CSS3, Bootstrap.
+* **Tech Stack:**  HTML5, CSS3, Bootstrap.
 * [🔗 View Repository](https://github.com/tomasgomez18/Proyecto-Streamming.git)
 
 ---
