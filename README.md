@@ -28,7 +28,7 @@ I am a **Full-Stack Developer** focused on building scalable web applications. I
 
 ## 📁 Featured Projects
 
-### 🎵 Wavv Music Platform
+### 🎵 Wavv Music
 A full-stack music streaming application. This project showcases my ability to manage complex state in the frontend and a structured REST API in the backend.
 * **Key Features:** Dynamic search, product management, and professional Git workflow (feature branching).
 * **Tech Stack:** React, Node.js, Express, Mongoose, React-Bootstrap.
