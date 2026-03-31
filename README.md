@@ -41,11 +41,13 @@ A specialized frontend project focused on UI/UX and dynamic content rendering.
 * **Tech Stack:**  HTML5, CSS3, Bootstrap.
 * [🔗 View Repository](https://github.com/tomasgomez18/Proyecto-Streamming.git)
 
----
+#---
 
 ## 📊 GitHub Ecosystem
-![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasgomez18&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgomez18&layout=compact&theme=dark)
+
+![Estadísticas de Tomas](https://github-readme-stats.vercel.app/api?username=tomasgomez18&show_icons=true&theme=dark&cache_seconds=1800&hide_border=false)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgomez18&layout=compact&theme=dark&cache_seconds=1800&hide_border=false)
 
 ---
 
