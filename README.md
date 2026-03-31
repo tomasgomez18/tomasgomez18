@@ -45,10 +45,7 @@ A specialized frontend project focused on UI/UX and dynamic content rendering.
 
 ## 📊 GitHub Ecosystem
 
-![Estadísticas de Tomas](https://github-readme-stats.vercel.app/api?username=tomasgomez18&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgomez18&layout=compact&theme=radical&cache_seconds=1800)
-
+![Tomas Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomasgomez18&theme=dark)
 ---
 
 ## 📩 Contact
