@@ -41,14 +41,20 @@ A specialized frontend project focused on UI/UX and dynamic content rendering.
 * **Tech Stack:**  HTML5, CSS3, Bootstrap.
 * [🔗 View Repository](https://github.com/tomasgomez18/Proyecto-Streamming.git)
 
-#---
+---
 
-## 📊 GitHub-Ecosystem
+## 📊 GitHub Ecosystem
 
-![Tomas Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomasgomez18&theme=dark)
+Aquí puedes ver el resumen de mi actividad y los lenguajes que más utilizo en mis desarrollos:
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tomasgomez18&show_icons=true&theme=tokyonight&hide_border=true" alt="Tomas Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasgomez18&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 ---
 
 ## 📩 Contact
-* 💼 **LinkedIn:** https://www.linkedin.com/in/tomas-gomez-15a613383/
+* 💼 **LinkedIn:** [linkedin.com/in/tomas-gomez](https://www.linkedin.com/in/tomas-gomez-15a613383/)
 * 📧 **Email:** [tomasgomezzi36@gmail.com](mailto:tomasgomezzi36@gmail.com)
-* 🌐 **Portfolio:** https://tomasgomezportfolio.netlify.app
+* 🌐 **Portfolio:** [tomasgomezportfolio.netlify.app](https://tomasgomezportfolio.netlify.app)
