@@ -43,7 +43,7 @@ A specialized frontend project focused on UI/UX and dynamic content rendering.
 
 #---
 
-## 📊 GitHub Ecosystem
+## 📊 GitHub-Ecosystem
 
 ![Tomas Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomasgomez18&theme=dark)
 ---
