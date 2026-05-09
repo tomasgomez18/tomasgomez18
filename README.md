@@ -1,4 +1,4 @@
-# Hi, I'm Tomas Gomez 👋
+# Hi, I'm Tomas Gomez. 👋
 
 ### Full-Stack Developer | University Programming Student 🎓
 
